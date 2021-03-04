@@ -4,7 +4,7 @@ O programa funciona como um Pomodoro, que a cada 25 minutos é lançada uma nova
 
 
 
-O bootcamp foi ministrado por Diego Schell Fernandes, é incrível ver a sua habilidade e a forma com que conduz as aulas, assim fica fácil de aprender!
+O bootcamp NextLevelWeek4 foi ministrado por Diego Schell Fernandes, é incrível ver a sua habilidade e a forma com que conduz as aulas, assim fica fácil de aprender!
 
 
 
