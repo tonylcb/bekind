@@ -1,4 +1,4 @@
-# bekind
+# beKind
 
 O programa funciona como um Pomodoro, que a cada 25 minutos é lançada uma nova atividade corporal ou de visão para fazer, coisa rápida, mas faz com que você dê um pouco de carinho ao seu corpo durante o longo tempo que passamos em frente ao computador.
 
